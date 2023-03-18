@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "name": "Wheater App",
+        "description": "Esta app fue creada para poder realizar varios procesos de incorporación de climas en tiempo real",
+        "image": "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
+        "github": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "deploy": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "tecnologies": [
+            "javascrit",
+            "react",
+            "redux-toolkit",
+            "tailwind",
+            "axios"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Wheater App",
+        "description": "Esta app fue creada para poder realizar varios procesos de incorporación de climas en tiempo real",
+        "image": "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
+        "github": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "deploy": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "tecnologies": [
+            "javascrit",
+            "react",
+            "redux-toolkit",
+            "tailwind",
+            "axios"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Wheater App",
+        "description": "Esta app fue creada para poder realizar varios procesos de incorporación de climas en tiempo real",
+        "image": "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
+        "github": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "deploy": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "tecnologies": [
+            "javascrit",
+            "react",
+            "redux-toolkit",
+            "tailwind",
+            "axios"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Wheater App",
+        "description": "Esta app fue creada para poder realizar varios procesos de incorporación de climas en tiempo real",
+        "image": "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
+        "github": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "deploy": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "tecnologies": [
+            "javascrit",
+            "react",
+            "redux-toolkit",
+            "tailwind",
+            "axios"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Wheater App",
+        "description": "Esta app fue creada para poder realizar varios procesos de incorporación de climas en tiempo real",
+        "image": "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
+        "github": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "deploy": "https://github.com/nicky-maco/weather-app-react-redux-tailwind",
+        "tecnologies": [
+            "javascrit",
+            "react",
+            "redux-toolkit",
+            "tailwind",
+            "axios"
+        ]
+    }
+]

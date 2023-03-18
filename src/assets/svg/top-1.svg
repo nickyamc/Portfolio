@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1440"
+   height="81"
+   viewBox="0 0 1440 81"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="top-1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.29708306"
+     inkscape:cx="695.0918"
+     inkscape:cy="-286.11527"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <g
+     clip-path="url(#clip0_117:169)"
+     id="g4"
+     style="fill:#eaedf2;fill-opacity:1">
+    <path
+       d="M2291 129.888C2089 130 2019.4 95.0952 1918.28 -80.7697L1576.63 -114.559C1438.57 37.6904 1298.5 92.6211 1072.18 70.2596L427.285 6.51392C119.81 -23.9099 -21.0173 58.097 -142 190L2291 129.888Z"
+       fill="#EAEDF2"
+       id="path2"
+       style="fill:#eaedf2;fill-opacity:1" />
+  </g>
+  <defs
+     id="defs9">
+    <clipPath
+       id="clip0_117:169">
+      <rect
+         width="2990"
+         height="130"
+         fill="white"
+         transform="matrix(1 0 0 -1 -699 130)"
+         id="rect6" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0_117:169)"
+     id="g2082"
+     transform="translate(-47.124868,679.94452)">
+    <path
+       d="M 2291,129.888 C 2089,130 2019.4,95.0952 1918.28,-80.7697 L 1576.63,-114.559 C 1438.57,37.6904 1298.5,92.6211 1072.18,70.2596 L 427.285,6.51392 C 119.81,-23.9099 -21.0173,58.097 -142,190 Z"
+       fill="#eaedf2"
+       id="path2080" />
+  </g>
+</svg>

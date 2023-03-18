@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1440 200"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="bot-1.svg"
+   width="1440"
+   height="200"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.41724138"
+     inkscape:cx="470.95041"
+     inkscape:cy="-31.157025"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:#eaedf2;}</style>
+    <clipPath
+       id="clip0_117:169">
+      <rect
+         width="2990"
+         height="130"
+         fill="#ffffff"
+         transform="matrix(1,0,0,-1,-699,130)"
+         id="rect6"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <title
+     id="title6">back-04</title>
+  <metadata
+     id="metadata295">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>back-04</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     class="a"
+     d="m -868.40406,-36.761453 c 29.51101,3.03091 64.40696,14.14427 86.69431,20.711249 143.08956,42.432838 242.67536,129.652504 331.8146,275.813374 l 383.77462,19.70096 C 78.353117,89.77928 231.5154,11.076502 485.71833,24.180163 l 729.13757,37.593454 c 274.5201,14.144283 465.276,-6.789258 595.6153,-98.575485 z"
+     id="path8"
+     style="fill:#eaedf2;fill-opacity:1;stroke-width:1.01031" />
+  <path
+     class="a"
+     d="m -958.42059,575.99801 c 28.87735,2.96583 63.02402,13.84056 84.83281,20.26654 140.01715,41.52172 237.46465,126.86861 324.6899,269.89112 l 375.53423,19.27794 C -31.99213,699.82167 117.88146,622.80879 366.62616,635.63109 l 713.48164,36.78625 c 268.6256,13.84058 455.2856,-6.64348 582.8262,-96.45888 z"
+     id="path301"
+     style="fill:#eaedf2;fill-opacity:1;stroke-width:0.988614" />
+</svg>
