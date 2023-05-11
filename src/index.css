@@ -52,3 +52,23 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
+.img-bg-projects {
+    background-image: url("./assets/svg/top-3.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.img-bg-contact {
+    background-image: url("./assets/svg/top-4.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.img-bg-contact-card {
+    background-image: url("./assets/svg/contactOne.svg"), url("./assets/svg/contactTwo.svg"), url("./assets/svg/contactThree.svg"), url("./assets/svg/contactFour.svg"), url("./assets/svg/contactFive.svg");
+    background-repeat: no-repeat;
+    background-position: -6% 115%,-10px -20px,111.5% 120%,96% -10%,100% 0%;
+}

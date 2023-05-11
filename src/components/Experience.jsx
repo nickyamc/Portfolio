@@ -4,72 +4,56 @@ import SliderButtons from "./Sliders/SliderButtons";
 
 const Experience = () => {
   return (
-    <section className="bg-[#f7f8fa] pt-32 pb-44 px-3 lg:px-10 xl:px-40 2xl:px-64 img-bg-experience overflow-hidden">
+    <section id="experience" className="bg-[#f7f8fa] pt-12 sm:pt-32 pb-16 sm:pb-44 px-3 lg:px-10 xl:px-40 2xl:px-64 img-bg-experience overflow-hidden">
       <div className="flex flex-col gap-7 justify-center items-center">
         <div className="flex flex-col self-stretch ml-20">
           <p className="text-base font-bold font-neo text-[#fa7f98]">
             EXPERIENCE
           </p>
-          <p className="text-4xl font-bold font-neo text-os">Developer</p>
+          <p className="text-4xl font-bold font-neo text-os">Profesional</p>
         </div>
         <SliderButtons>
           <div className="snap-center">
             <WorkCard
               side={true}
-              job={"Java Developer"}
-              company={"Babas.devel"}
-              time={"Ago. 2021 - Dic. 2021"}
+              job={"Analista de Datos"}
+              company={"JS Consultores & Contratistas"}
+              time={"Sept. 2022 - Dic. 2022"}
               description={
-                "Desarrollado de sistemas comerciales de escritorio con uso de lenguaje Java, librerias como JavaFX para mejora de interfaces de usuarios."
+                "Análisis y recopilación de datos para el desarrollo de plataforma de gestión de pagos de la Dirección Regional de Transportes y asesoría para uso correcto de los activos TI"
               }
-              url={"babasdevel.com"}
               image={
-                "https://scontent.flim24-1.fna.fbcdn.net/v/t39.30808-6/306123907_548404567086248_7554300244924495233_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEqeyP2NQ7lBruU0j2AYNSsulnp6P5WObu6Weno_lY5u7FwekaBkuEdd5SrIwHMzmTgpZWc4FxseoejfKE6ew5g&_nc_ohc=3rFx-y6NEl4AX_4tbBG&_nc_ht=scontent.flim24-1.fna&oh=00_AfB9t4b-ExeKzos5dxMW2gQELOUKnhal5Fn6MTcD_vvxgw&oe=6419910F"
+                "/images/js-consultores.png"
               }
             />
           </div>
           <div className="snap-center">
             <WorkCard
               side={true}
-              job={"Java Developer"}
-              company={"Babas.devel"}
+              job={"Pasante como Desarrollador"}
+              company={"Gobierno Regional de Madre de Dios"}
               time={"Ago. 2021 - Dic. 2021"}
               description={
-                "Desarrollado de sistemas comerciales de escritorio con uso de lenguaje Java, librerias como JavaFX para mejora de interfaces de usuarios."
+                "Desarrollo de app web para gestión información documentaría y estadística de metadatos, mantenimiento de servicios alojados en servidores."
               }
-              url={"babasdevel.com"}
+              url={"https://www.gob.pe/regionmadrededios"}
               image={
-                "https://scontent.flim24-1.fna.fbcdn.net/v/t39.30808-6/306123907_548404567086248_7554300244924495233_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEqeyP2NQ7lBruU0j2AYNSsulnp6P5WObu6Weno_lY5u7FwekaBkuEdd5SrIwHMzmTgpZWc4FxseoejfKE6ew5g&_nc_ohc=3rFx-y6NEl4AX_4tbBG&_nc_ht=scontent.flim24-1.fna&oh=00_AfB9t4b-ExeKzos5dxMW2gQELOUKnhal5Fn6MTcD_vvxgw&oe=6419910F"
+                "/images/goremad.jpg"
               }
             />
           </div>
           <div className="snap-center">
             <WorkCard
               side={true}
-              job={"Java Developer"}
+              job={"Desarrollador Java"}
               company={"Babas.devel"}
-              time={"Ago. 2021 - Dic. 2021"}
+              time={"Ene. 2020 - Dic. 2020"}
               description={
-                "Desarrollado de sistemas comerciales de escritorio con uso de lenguaje Java, librerias como JavaFX para mejora de interfaces de usuarios."
+                "Desarrolló sistemas comerciales distribuidos en red con énfasis en el rendimiento y escalabilidad, aplicando patrones de diseño en procesos consultas en red y métodos almacenados."
               }
-              url={"babasdevel.com"}
+              url={"https://www.facebook.com/Babas.devel"}
               image={
-                "https://scontent.flim24-1.fna.fbcdn.net/v/t39.30808-6/306123907_548404567086248_7554300244924495233_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEqeyP2NQ7lBruU0j2AYNSsulnp6P5WObu6Weno_lY5u7FwekaBkuEdd5SrIwHMzmTgpZWc4FxseoejfKE6ew5g&_nc_ohc=3rFx-y6NEl4AX_4tbBG&_nc_ht=scontent.flim24-1.fna&oh=00_AfB9t4b-ExeKzos5dxMW2gQELOUKnhal5Fn6MTcD_vvxgw&oe=6419910F"
-              }
-            />
-          </div>
-          <div className="snap-center">
-            <WorkCard
-              side={true}
-              job={"Java Developer"}
-              company={"Babas.devel"}
-              time={"Ago. 2021 - Dic. 2021"}
-              description={
-                "Desarrollado de sistemas comerciales de escritorio con uso de lenguaje Java, librerias como JavaFX para mejora de interfaces de usuarios."
-              }
-              url={"babasdevel.com"}
-              image={
-                "https://scontent.flim24-1.fna.fbcdn.net/v/t39.30808-6/306123907_548404567086248_7554300244924495233_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEqeyP2NQ7lBruU0j2AYNSsulnp6P5WObu6Weno_lY5u7FwekaBkuEdd5SrIwHMzmTgpZWc4FxseoejfKE6ew5g&_nc_ohc=3rFx-y6NEl4AX_4tbBG&_nc_ht=scontent.flim24-1.fna&oh=00_AfB9t4b-ExeKzos5dxMW2gQELOUKnhal5Fn6MTcD_vvxgw&oe=6419910F"
+                "/images/babasdevel.png"
               }
             />
           </div>

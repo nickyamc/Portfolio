@@ -1,4 +1,3 @@
-import Logo from "../assets/logo_white.svg";
 import Navbar from "./Navbar";
 
 const Header = () => {

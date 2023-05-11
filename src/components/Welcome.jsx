@@ -6,15 +6,19 @@ import Avatar from "../assets/images/avatar.png";
 import BlobOne from "../assets/svg/blob-1.svg";
 import BlobTwo from "../assets/svg/blob-2.svg";
 import WaveTwo from "../assets/svg/wave-1.svg";
+import {
+  FolderArrowDownIcon,
+  CloudArrowDownIcon,
+} from "@heroicons/react/24/outline";
 
 const Welcome = () => {
   return (
-    <section className={`px-3 py-16 img-bg-welcome relative overflow-hidden`}>
+    <section id="welcome" className={`px-4 py-16 img-bg-welcome relative overflow-hidden`}>
       <div className="container mx-auto">
         <div className="flex flex-nowrap justify-center items-center">
-          <div className="min-w-[600px] max-w-xl flex flex-col gap-3 z-30">
-            <div className="text-6xl font-semibold font-neo text-os">
-              <p className="w-96">Hi 👋, I'm Nick Macedo</p>
+          <div className="min-w-[300px] max-w-xl flex flex-col gap-3 z-30">
+            <div className="text-6xl  font-semibold font-neo text-os">
+              <p className="mt-auto">Hola 👋, Yo soy Nick Macedo</p>
               <Typical
                 steps={[
                   "FullStack Developer",
@@ -29,13 +33,17 @@ const Welcome = () => {
               />
             </div>
             <p className="text-lg font-open">
-              Apasionado por la tecnología🚀👨‍💻, desarrollando soluciones
-              innovadoras. En busca de nuevos desafíos profesionales.
+              Apasionado por la tecnología 👨‍💻, desarrollando soluciones
+              innovadoras 🚀. En busca de nuevos desafíos profesionales.
             </p>
             <div className="flex gap-3 mt-2">
-              <button className="rounded-full py-1 px-5 bg-[#4351e8] hover:bg-[#4f65f1] text-white text-lg font-open">
-                About Us
+              <button className="rounded-full py-1.5 px-5 bg-[#4351e8] hover:bg-[#4f65f1] text-white font-open">
+                SOBRE MI
               </button>
+              <a href="/CV.pdf" className="cursor-pointer rounded-full flex items-center gap-1 text-[#4351e8] hover:text-[#4f65f1] font-open">
+                DESCARGAR CV
+                <CloudArrowDownIcon className="w-6 h-6" />
+              </a>
             </div>
           </div>
           <div className="hidden lg:block lg:-mr-48 lg:-ml-20 xl:ml-0 relative min-w-[650px] min-h-[550px]">
@@ -57,7 +65,10 @@ const Welcome = () => {
           </div>
         </div>
       </div>
-      <img className="absolute w-full bottom-0 left-0 right-0 lg:z-30 xl:z-0" src={WaveTwo} />
+      <img
+        className="absolute w-full bottom-0 left-0 right-0 lg:z-30 xl:z-0"
+        src={WaveTwo}
+      />
     </section>
   );
 };

@@ -2,6 +2,8 @@ import AboutUs from "../components/AboutUs";
 import Welcome from "../components/Welcome";
 import Experience from "../components/Experience";
 import Background from "../components/Background";
+import Projects from "../components/Projects";
+import Contact from "../components/Contact";
 
 const Home = () => {
   
@@ -12,6 +14,8 @@ const Home = () => {
       <AboutUs />
       <Experience />
       <Background />
+      <Projects />
+      {/* <Contact /> */}
     </main>
   );
 };
