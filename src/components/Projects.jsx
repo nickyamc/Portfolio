@@ -41,8 +41,8 @@ const Projects = () => {
             name={"Porfolio"}
             description={"Projecto de porfolio para mostrar mis proyectos y conocimientos."}
             tecnologies={["React", "Redux"]}
-            deploy={"url"}
-            github={"url"}
+            deploy={"https://portfolio-e4ge.vercel.app/"}
+            github={"https://github.com/nickyamc/Portfolio"}
             img={ImgPorfolio}
           />
         </div>
